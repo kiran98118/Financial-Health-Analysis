@@ -12,7 +12,7 @@ The **Financial Analysis** project provides insights into key financial metrics 
 
 ## 🛠️ Technologies Used  
 - **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Database:** SQL (PostgreSQL/MySQL)  
+- **Database:** MySQL  
 - **Visualization:** Matplotlib, Seaborn  
 - **Data Processing:** Jupyter Notebook  
 
