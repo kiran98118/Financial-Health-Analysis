@@ -38,4 +38,4 @@ This project focuses on **cleaning, validating, and preprocessing financial data
 - **Develop Interactive Dashboards** using Tableau/Power BI.  
 
 ## 📧 Contact  
-For queries, reach out to **[your-email@example.com](mailto:your-email@example.com)**.  
+For queries, reach out to **[kiran98118@example.com]**.  
